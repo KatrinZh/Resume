@@ -240,7 +240,7 @@ h5{
     }
 
 
-    .card__icon{
+    .card__icon i{
         font-size: 40px;
     }
 
@@ -317,6 +317,7 @@ h5{
 
     .header__inner{
         top:65%;
+        right: 11%;
     }
     
     .header__title {
@@ -332,8 +333,8 @@ h5{
         font-size: 15px;
     }
 
-    .card__icon{
-        font-size: 20px;
+    .card__icon i{
+        font-size: 30px;
     }
 }
 
